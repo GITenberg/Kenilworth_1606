@@ -1,5 +1,8 @@
 _repo: Kenilworth_1606
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Walter
@@ -15,6 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
 description: "Kenilworth. A Romance is a historical novel by Sir Walter Scott, first\
   \ published on 8 January 1821.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1606#Kenilworth
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2006-02-22'
 gutenberg_type: Text
